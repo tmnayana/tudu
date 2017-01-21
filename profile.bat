@@ -1,0 +1,1 @@
+C:\Users\devopsvm\sonar\runner\bin\sonar-runner.bat
